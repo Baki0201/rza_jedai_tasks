@@ -1,0 +1,7 @@
+p::selection{
+    background-color: red;
+}
+p::after{
+    content: "☀";
+    color:yellow;
+}
