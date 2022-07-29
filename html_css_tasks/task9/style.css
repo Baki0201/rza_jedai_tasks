@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+.insta{
+    float: left;
+    width: calc(100%3);
+    text-align: center;
+    color: blueviolet;
+    padding: 30px 30px;
+}
+.tg{
+    float: right;
+    width: calc(100%3);
+    text-align: center;
+    color: blueviolet;
+    padding: 30px 30px;
+
+}
+.diagram{
+    float: right;
+    width: calc(100%3);
+    text-align: center;
+    color: blueviolet;
+    padding: 30px 30px;
+
+}
+div:hover{
+    color: white;
+    background-color: blueviolet;
+}
